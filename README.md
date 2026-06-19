@@ -1,35 +1,41 @@
-# HR Analytics Dashboard
+# Financial Health Dashboard
 
- Overview
-This project is an interactive HR Analytics Dashboard developed using Power BI. It helps analyze employee data and provides insights into workforce trends, attrition, demographics, and job satisfaction.
+## Overview
+The Financial Health Dashboard is an interactive Power BI project designed to analyze key financial metrics and provide insights into business performance. The dashboard helps track sales, profit, expenses, and overall financial health through visual reports.
 
- Objectives
-- Analyze employee attrition
-- Monitor workforce demographics
-- Understand employee satisfaction
-- Support data-driven HR decisions
+## Objectives
+- Monitor financial performance
+- Analyze sales and profit trends
+- Track expenses and revenue
+- Support data-driven business decisions
 
-Dashboard Features
-- Employee Attrition Analysis
-- Department-wise Employee Distribution
-- Gender Diversity Insights
-- Job Satisfaction Metrics
+## Dashboard Features
+- Total Sales Overview
+- Profit Analysis
+- Revenue Tracking
+- Expense Monitoring
+- Monthly Performance Trends
 - Interactive Filters and Visualizations
 
- Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Microsoft Excel
 - Data Visualization
-- Data Analytics
+- Business Analytics
 
- Files Included
-- HR_Analytics_Dashboard.pbix
-- HR Dataset.xlsx
+## Files Included
+- Financial_Health_Dashboard.pbix
+- Financial Dataset.xlsx
 - Dashboard Screenshots
-- README.me
+- README.md
 
- Project Outcome
-Developed an interactive dashboard that enables HR teams to identify workforce trends and make informed decisions.
+## Key Insights
+- Identified sales and profit trends
+- Evaluated overall financial performance
+- Improved decision-making through data visualization
 
-Author
+##Project Outcome
+Developed an interactive dashboard that provides a clear view of financial performance and helps stakeholders make informed business decisions.
+
+## Author
 Likhitha Peteru
